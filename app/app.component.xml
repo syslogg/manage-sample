@@ -1,6 +1,6 @@
 <StackLayout>
     <TextField hint="E-mail" keyboardType="email" autocorrect="false" autocapitalizationType="none"></TextField>
     <TextField hint="Password" secure="true"></TextField>
-    <Button text="Login"></Button>
+    <Button class="submit-button" text="Login"></Button>
     <Button text="Cadastrar"></Button>
 </StackLayout>
